@@ -1,0 +1,9 @@
+{
+    "name": "some-random-pkg-bbb",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "cookie-parser": "1.4.7"
+    }
+}
